@@ -1,6 +1,6 @@
 {
   "name": "webhook-endpoint",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "colors": "^1.1.2",
